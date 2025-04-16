@@ -2,14 +2,3 @@
     "ServerKind": 0,
     "OrganizationName": "深圳市观澜第二中学教育集团"
 }
-
-{
-    "DisableProfileClassPlanEditing": false,
-    "DisableProfileTimeLayoutEditing": true,
-    "DisableProfileSubjectsEditing": false,
-    "DisableProfileEditing": false,
-    "DisableSettingsEditing": false,
-    "DisableSplashCustomize": true,
-    "DisableDebugMenu": true,
-    "AllowExitManagement": false
-}
